@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Navneet's github stats](https://github-readme-stats.vercel.app/api?username=codenavneet&show_icons=true&theme=radical)
+![Navneet's github stats](https://github-readme-stats.vercel.app/api?username=codenavneet&show_icons=true&theme=radical) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenavneet&layout=compact)](https://github.com/codenavneet/github-readme-stats)
 <!--
 **codenavneet/codenavneet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
