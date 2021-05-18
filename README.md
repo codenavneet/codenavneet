@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-<img align="right" src="https://github.com/codenavneet/codenavneet/blob/master/gif-3d-cool.gif" width="40%"/>
+
 ![Navneet's github stats](https://github-readme-stats.vercel.app/api?username=codenavneet&show_icons=true&theme=radical) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenavneet&layout=compact)](https://github.com/codenavneet/github-readme-stats)
 <!--
